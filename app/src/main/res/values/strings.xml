@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">otp varification</string>
+    <string name="description_language">You can change the language \n at any time.</string>
+    <string name="title_language">Please select your Language</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+        <item>Bangali</item>
+        <item>spanish</item>
+    </string-array>
+</resources>
