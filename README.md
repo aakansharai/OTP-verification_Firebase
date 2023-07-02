@@ -1,4 +1,4 @@
-# OTP-verification_Firebase
+# OTP verification Firebase
 
 Firebase - Authentication with Phone Number, OTP verification
 
